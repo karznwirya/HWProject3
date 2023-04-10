@@ -6,4 +6,7 @@ public class Test3 {
 		System.out.println("test3");
 	}
 
+	public void getinfo() {
+		System.out.println("pushig... ");
+	}
 }
